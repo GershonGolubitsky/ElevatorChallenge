@@ -5,7 +5,7 @@
 export const Settings = [
   {
     num_of_elevators: 3,
-    num_of_floors: 15,
+    num_of_floors: 25,
     timeInFloor: 2000,
     timeToOpenDoor: 2000,
     name: 'building1',

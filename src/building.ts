@@ -37,7 +37,6 @@ export class Building {
 
     this.createElevators(num_of_elevators);
     this.createFloors(num_of_floors);
-
     this.appendElements();
   }
 
